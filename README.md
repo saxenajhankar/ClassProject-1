@@ -58,8 +58,7 @@ In your repo's README, list your team name and roster with roles
 | Pull appropriate stories into sprint backlog | All team members are developers and all team members participated. <br> https://github.com/Best-Team-Forever/ClassProject/blob/main/doc/SprintBacklog.jpg |
 | Ensure stories are right-sized | Based on our estimating activity we believe our first three stories are estimated correctly at [5, 3, 2] |
 | Decompose stories into tasks | We put our tasks in the story description. See screenshot: <br> https://github.com/Best-Team-Forever/ClassProject/blob/main/doc/SubTaskBreakout.jpg|
-| Set up a kanban board for sprint backlog | We are using Jira for the kanban board. See screenshot: <br> https://github.com/Best-Team-Forever/ClassProject/blob/main/doc/kanban.jpg |
-
+| Set up a kanban board for sprint backlog | We are using Jira for the kanban board. See screenshot: https://github.com/Best-Team-Forever/ClassProject/blob/main/doc/DailyScrumBoardInProgress.jpg
 ## Sprint Execution and Monitoring
 |Task|Our Submission|
 |-------|-------------|
